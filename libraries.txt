@@ -1,0 +1,8 @@
+Library1 - Clementinum, Prague
+Library2 - Bibliotheca Alexandrina, Alexandriaa, Egypt
+Library3 - Trinity College Old Library, Dublin
+Library4 - Cantral Library of Vancouver, Canada
+Library5 - Library of Congress, Washington, D.C.
+Library6 - New York Puplic Library (Stephen A. Schwarzman Building)
+Library7 - Marciana Library, Venicee
+Library8 - Seattle Puplic Library's Central Library
